@@ -32,7 +32,7 @@ Alzheimer's disease (AD) is a progressive neurodegenerative disorder that primar
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your_username/Drug_discovery-using-ML.git
+git clone https://github.com/akashgh003/Drug_discovery-using-ML.git
 
 #🚀 Usage
 
