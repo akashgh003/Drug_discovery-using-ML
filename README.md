@@ -34,7 +34,7 @@ Clone this repository to your local machine:
 
 git clone https://github.com/akashgh003/Drug_discovery-using-ML.git
 
-#🚀 Usage
+# 🚀 Usage
 
     Data Preprocessing: Prepare the data by following the steps in the data_preprocessing.ipynb notebook.
     Model Training: Train the ML models using the train_models.ipynb notebook.
