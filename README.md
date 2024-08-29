@@ -55,7 +55,6 @@ This project utilizes a variety of machine learning models to predict the effect
 
     Random Forest: An ensemble learning method based on decision trees. It is robust against overfitting and performs well on large datasets.
     Support Vector Machine (SVM): A powerful classifier that works well with high-dimensional data and is effective in cases where the number of dimensions exceeds the number of samples.
-    Neural Networks: A deep learning model capable of capturing complex relationships between the features and the target variables.
 
 ## Model Training
 
