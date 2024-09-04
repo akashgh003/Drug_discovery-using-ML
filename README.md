@@ -9,7 +9,7 @@
   </a>
 </div>
 
-# 🚀 In Silico Approach to Aid Alzheimer's Diseases Using Drug with ML Models 🧠
+# 🚀 In Silico Approach to Aid Alzheimer's Diseases Using Drug with ML Models 
 
 ![Project Overview](path_to_your_gif.gif)
 
