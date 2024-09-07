@@ -40,7 +40,7 @@ git clone https://github.com/akashgh003/Drug_discovery-using-ML.git
     Model Training: Train the ML models using the train_models.ipynb notebook.
     Evaluation: Evaluate the model performance using the evaluate_models.ipynb notebook.
 
-##📊 Dataset
+## 📊 Dataset
 
 The dataset used in this project is sourced from [source_name]. It includes various biochemical and pharmacological features of compounds known to interact with Alzheimer's disease-related targets. The dataset contains the following key components:
 
@@ -49,7 +49,7 @@ The dataset used in this project is sourced from [source_name]. It includes vari
     Features: Biochemical properties, molecular fingerprints, and pharmacological descriptors of the compounds.
 
 Data preprocessing involves cleaning, normalization, and feature extraction to ensure compatibility with machine learning models.
-##🧠 Models
+## 🧠 Models
 
 This project utilizes a variety of machine learning models to predict the effectiveness of compounds in treating Alzheimer's disease. The models employed include:
 
